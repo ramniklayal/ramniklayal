@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ramnik Layal
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on SQL
+- 📫 ramniklayal@outlook.com 
