@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Ramnik Layal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on SQL
-- 📫 ramniklayal@outlook.com 
+- 👋 Hi, I’m a beginner programmer learning on the web.
+- 👀 I’m interested in Data Engineering, currently learning Python.
+- ⚡ Fun Fact: I love Big Lebowski and Bong Joon Ho.
