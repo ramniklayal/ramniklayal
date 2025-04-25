@@ -1,2 +1,3 @@
-👋 Hi, I'm Ramnik
-I'm currently learning Data Engineering — exploring tools like SQL, Python, Airflow, and cloud platforms.
+- 👋 Hi, I'm Ramnik
+- I'm currently learning Data Engineering — exploring tools like SQL, Python, Airflow, and cloud platforms.
+  - **Sql skills:** [practice_sql](https://github.com/ramniklayal/practice_sql)
