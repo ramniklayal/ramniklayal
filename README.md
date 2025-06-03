@@ -15,6 +15,7 @@ I'm a **Data Steward** currently learning **Data Engineering**. I’m passionate
 
 - May 2025 [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/ed4886d6fd1fa3dea2cd2512326d9838)
 - Jun 2025 [Python Data Structures](https://coursera.org/share/500062b02eee67551ab7560ed9f227fe)
+- Jun 2025 [Agile with Atlassian Jira](https://coursera.org/share/77acc26fff99887fbf457bd619155407)
 
 ---
 
